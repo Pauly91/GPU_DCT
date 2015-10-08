@@ -1,0 +1,4 @@
+nvprof --analysis-metrics -o  nbody-analysis.nvprof ./run image.bmp 
+sshpass -p apb scp dctCompress.bmp abel@192.168.4.140:/home/abel/Desktop/M-Tech/SEM3/PE/pe_2015
+sshpass -p apb scp nbody-analysis.nvprof abel@192.168.4.140:/home/abel/Desktop/M-Tech/SEM3/PE/pe_2015
+

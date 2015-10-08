@@ -1,0 +1,4 @@
+sshpass -p apb scp dctCompress.bmp abel@192.168.4.140:/home/abel/Desktop/M-Tech/SEM3/gpuComputingPE/pe_2015
+sshpass -p apb scp timingInformation abel@192.168.4.140:/home/abel/Desktop/M-Tech/SEM3/gpuComputingPE/pe_2015
+
+

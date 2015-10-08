@@ -1,0 +1,1327 @@
+With No Optimazation: 20.931456
+With No Optimazation: 20.966721
+With No Optimazation: 20.952671
+With No Optimazation: 20.950720
+With No Optimazation: 20.926880
+With No Optimazation: 20.951073
+With Constant memory usage: 21.755775
+With Constant memory usage: 21.761633
+With Constant memory usage: 21.766048
+With Constant memory usage: 21.753023
+With Constant memory usage: 21.756865
+Changing shared memory access: 10.358752
+Changing shared memory access: 10.381248
+Changing shared memory access: 10.382912
+Changing shared memory access: 10.384160
+Changing shared memory access: 10.363744
+Changing shared memory access: 10.293760
+Changing shared memory access: 10.295392
+Making cosine and Quant Tables shared Mem: 10.505024
+Making cosine and Quant Tables shared Mem: 10.504416
+Making cosine and Quant Tables shared Mem: 10.527552
+Making cosine and Quant Tables shared Mem: 10.528736
+Making cosine and Quant Tables shared Mem: 10.559872
+Making cosine and Quant Tables shared Mem: 10.542528
+Making cosine and Quant Tables shared Mem: 10.543712
+Making cosine and Quant Tables shared Mem: 10.543264
+Making cosine and Quant Tables shared Mem: 10.544224
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.405600
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.406848
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.409408
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.408224
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.405312
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.506560
+Making cosine and Quant Tables shared Mem with sync inside loop: 10.633888
+Making cosine and Quant Tables shared Mem with sync inside loop: 10.657568
+Making cosine and Quant Tables shared Mem with sync inside loop: 10.633504
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.535680
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.552512
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.551584
+Making cosine and Quant Tables shared Mem with row access cosine values: 10.557280
+Making cosine and Quant Tables shared Mem with row access cosine values: 20.774912
+Making cosine and Quant Tables shared Mem with row access cosine values: 17.871840
+Making cosine and Quant Tables shared Mem with row access cosine values: 19.252319
+Making cosine and Quant Tables shared Mem with row access cosine values: 19.350945
+Making cosine and Quant Tables shared Mem with row access cosine values: 17.928127
+Making cosine and Quant Tables shared Mem with row access cosine values: 17.917889
+Making cosine and Quant Tables shared Mem with row access cosine values: 14.790688
+Making cosine and Quant Tables shared Mem with row access cosine values: 15.030336
+Making cosine and Quant Tables shared Mem with row access cosine values: 15.959296
+Making cosine and Quant Tables shared Mem with row access cosine values: 15.023200
+Making cosine and Quant Tables shared Mem with row access cosine values: 14.784448
+Making cosine and Quant Tables shared Mem with row access cosine values: 16.070305
+Making cosine and Quant Tables shared Mem with row access cosine values: 15.901568
+Making cosine and Quant Tables shared Mem with row access cosine values: 15.207040
+Making cosine and Quant Tables shared Mem with row access cosine values: 15.115776
+Making cosine and Quant Tables shared Mem with row access cosine values: 15.450176
+Making cosine and Quant Tables with streams: 14.576512
+Making cosine and Quant Tables with streams: 14.700512
+Making cosine and Quant Tables with streams: 15.291264
+Making cosine and Quant Tables with streams: 14.975680
+Making cosine and Quant Tables with streams: 14.709088
+Making cosine and Quant Tables with streams: 14.945440
+Making cosine and Quant Tables with streams: 14.343648
+Making cosine and Quant Tables with streams: 15.515840
+Making cosine and Quant Tables with streams: 15.620256
+Making cosine and Quant Tables with streams: 14.469280
+Making cosine and Quant Tables with streams: 14.997376
+Making cosine and Quant Tables with streams: 14.492992
+Making cosine and Quant Tables with streams: 14.741056
+Making cosine and Quant Tables with streams: 25.500160
+Making cosine and Quant Tables with streams: 12.779872
+Making cosine and Quant Tables with streams: 12.754912
+Making cosine and Quant Tables with streams: 12.691584
+Making cosine and Quant Tables with streams: 12.620544
+Making cosine and Quant Tables with streams: 13.535360
+Making cosine and Quant Tables with streams: 25.477247
+Making cosine and Quant Tables with streams: 12.396512
+Making cosine and Quant Tables with streams: 13.517216
+Making cosine and Quant Tables with streams: 12.457536
+Making cosine and Quant Tables with streams: 9.913632
+Making cosine and Quant Tables with streams: 10.605696
+Making cosine and Quant Tables with streams: 10.656384
+Making cosine and Quant Tables with streams: 9.836096
+Making cosine and Quant Tables with streams: 11.406624
+Making cosine and Quant Tables with streams: 12.393152
+Making cosine and Quant Tables with streams: 12.334080
+Making cosine and Quant Tables with streams: 12.669440
+Making cosine and Quant Tables with streams: 31.286304
+Making cosine and Quant Tables with streams: 542.363525
+Making cosine and Quant Tables with streams: 25.264704
+Making cosine and Quant Tables with streams: 13.834592
+Making cosine and Quant Tables with streams: 13.415584
+Making cosine and Quant Tables with streams: 14.010688
+Making cosine and Quant Tables with streams: 13.701760
+Making cosine and Quant Tables with streams: 25.194208
+Making cosine and Quant Tables with streams: 13.369504
+Making cosine and Quant Tables with streams: 14.204960
+Making cosine and Quant Tables with streams: 13.477152
+Making cosine and Quant Tables with streams: 13.347168
+Making cosine and Quant Tables with streams: 14.072128
+Making cosine and Quant Tables with streams: 14.190336
+Making cosine and Quant Tables with streams: 13.217024
+Making cosine and Quant Tables with streams: 13.464288
+Making cosine and Quant Tables with streams: 13.316544
+Making cosine and Quant Tables with streams: 13.864064
+Making cosine and Quant Tables with streams: 13.271840
+Making cosine and Quant Tables with streams: 13.373408
+Making cosine and Quant Tables with streams: 13.288064
+Making cosine and Quant Tables with streams: 13.419168
+Making cosine and Quant Tables with streams: 13.958016
+Making cosine and Quant Tables with streams: 14.452864
+Making cosine and Quant Tables with streams: 13.333824
+Making cosine and Quant Tables with streams: 13.328704
+Making cosine and Quant Tables with streams: 13.457888
+Making cosine and Quant Tables with streams: 13.373056
+Making cosine and Quant Tables with streams: 13.457536
+Making cosine and Quant Tables with streams: 13.769376
+Making cosine and Quant Tables with streams: 13.413952
+Making cosine and Quant Tables with streams: 13.792704
+Making cosine and Quant Tables with streams: 25.106497
+Making cosine and Quant Tables with streams: 13.013600
+Making cosine and Quant Tables with streams: 12.919456
+Making cosine and Quant Tables with streams: 13.511936
+Making cosine and Quant Tables with streams: 12.227744
+Making cosine and Quant Tables with streams: 12.435328
+Making cosine and Quant Tables with streams: 12.313568
+Making cosine and Quant Tables with streams: 13.251776
+Making cosine and Quant Tables with streams: 12.859328
+Making cosine and Quant Tables with streams: 12.761408
+Making cosine and Quant Tables with streams: 544.842712
+Making cosine and Quant Tables with streams: 25.537312
+Making cosine and Quant Tables with streams: 541.943848
+Making cosine and Quant Tables with streams: 12.850496
+Making cosine and Quant Tables with streams: 562.882812
+Making cosine and Quant Tables with streams: 25.568640
+Making cosine and Quant Tables with streams: 546.170837
+Making cosine and Quant Tables with streams: 13.519616
+Making cosine and Quant Tables with streams: 13.445088
+Making cosine and Quant Tables with streams: 12.673056
+Making cosine and Quant Tables with streams: 12.563648
+Making cosine and Quant Tables with streams: 12.614496
+Making cosine and Quant Tables with streams: 12.732672
+Making cosine and Quant Tables with streams: 12.608704
+Making cosine and Quant Tables with streams: 13.858592
+Making cosine and Quant Tables with streams: 14.028320
+Making cosine and Quant Tables with streams: 12.618912
+Making cosine and Quant Tables with streams: 12.652416
+Making cosine and Quant Tables with streams: 12.620704
+Making cosine and Quant Tables with streams: 12.707136
+Making cosine and Quant Tables with streams: 13.761312
+Making cosine and Quant Tables with streams: 12.604384
+Making cosine and Quant Tables with streams: 12.629344
+Making cosine and Quant Tables with streams: 13.376576
+Making cosine and Quant Tables with streams: 13.389728
+Making cosine and Quant Tables with streams: 12.685632
+Making cosine and Quant Tables with streams: 13.382688
+Making cosine and Quant Tables with streams: 12.712608
+Making cosine and Quant Tables with streams: 12.557408
+Making cosine and Quant Tables with streams: 12.581472
+Making cosine and Quant Tables with streams: 12.520640
+Making cosine and Quant Tables with streams: 12.688096
+Making cosine and Quant Tables with streams: 12.615200
+Making cosine and Quant Tables with streams: 13.445248
+Making cosine and Quant Tables with streams: 13.428896
+Making cosine and Quant Tables with streams: 13.382624
+Making cosine and Quant Tables with streams: 12.602784
+Making cosine and Quant Tables with streams: 12.587776
+Making cosine and Quant Tables with streams: 12.525696
+Making cosine and Quant Tables with streams: 13.213024
+Making cosine and Quant Tables with streams: 12.886304
+Making cosine and Quant Tables with streams: 13.509152
+Making cosine and Quant Tables with streams: 12.592064
+Making cosine and Quant Tables with streams: 12.597664
+Making cosine and Quant Tables with streams: 13.407552
+Making cosine and Quant Tables with streams: 12.748480
+Making cosine and Quant Tables with streams: 12.962784
+Making cosine and Quant Tables with streams: 12.889216
+Making cosine and Quant Tables with streams: 12.669024
+Making cosine and Quant Tables with streams: 13.858560
+Making cosine and Quant Tables with streams: 12.630144
+Making cosine and Quant Tables with streams: 13.430208
+Making cosine and Quant Tables with streams: 13.506656
+Making cosine and Quant Tables with streams: 12.675872
+Making cosine and Quant Tables with streams: 13.570272
+Making cosine and Quant Tables with streams: 12.601920
+Making cosine and Quant Tables with streams: 12.731936
+Making cosine and Quant Tables with streams: 12.708320
+Making cosine and Quant Tables with streams: 13.342752
+Making cosine and Quant Tables with streams: 12.843168
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.145344
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.966496
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.458208
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.559648
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.413568
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.507808
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.678304
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.560352
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.766368
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.282752
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.760544
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.966528
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.491968
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.838240
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.654400
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.676736
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.793696
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.698592
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.792640
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.682368
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.505728
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.659232
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.695360
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.801568
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.724224
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.797472
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.727264
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.716224
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.053696
+Making cosine and Quant Tables with streams with channel data in shared mem: 473.496643
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.968032
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.387936
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.164992
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.725312
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.723392
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.888672
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.369216
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.386464
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.777920
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.822400
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.307712
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.821184
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.248128
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.245312
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.774528
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.891776
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.082688
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.702432
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.277728
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.104768
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.496064
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.134112
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.337184
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.657536
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.323424
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.022112
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.097376
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.055519
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.179199
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.339584
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.112543
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.047136
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.408640
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.700896
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.289568
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.093472
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.220032
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.438784
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.084352
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.336768
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.496736
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.005280
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.320768
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.570848
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.297376
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.505728
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.282560
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.148096
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.009312
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.159232
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.132032
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.231200
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.014336
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.222112
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.000544
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.967168
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.129248
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.158912
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.958112
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.220224
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.020256
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.225408
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.138880
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.155584
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.237728
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.261888
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.143232
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.048800
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.992544
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.968608
+Making cosine and Quant Tables with streams with channel data in shared mem: 16.372671
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.191136
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.386336
+Making cosine and Quant Tables with streams with channel data in shared mem: 15.416384
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.327456
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.200544
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.219776
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.228352
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.267808
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.116064
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.942144
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.130080
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.496352
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.222592
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.142496
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.213280
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.131264
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.931200
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.856608
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.127392
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.898272
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.922720
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.930336
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.222880
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.142496
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.145664
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.901216
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.113952
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.213376
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.068576
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.296256
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.158848
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.127392
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.240896
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.177152
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.097088
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.195104
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.117792
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.083392
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.199104
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.980800
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.236640
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.200192
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.979904
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.235264
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.178336
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.386880
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.119104
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.996832
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.936352
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.125856
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.139680
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.112928
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.024960
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.186304
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.250272
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.123328
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.981376
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.084640
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.208896
+Making cosine and Quant Tables with streams with channel data in shared mem: 27.628096
+Making cosine and Quant Tables with streams with channel data in shared mem: 336.288391
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.037184
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.969920
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.953280
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.958688
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.339456
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.777600
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.952000
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.960288
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.041952
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.978112
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.050528
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.063360
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.811552
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.022656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.959744
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.947584
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.014432
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.972032
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.772032
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.827872
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.101600
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.145504
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.985536
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.945504
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.085664
+Making cosine and Quant Tables with streams with channel data in shared mem: 346.751343
+Making cosine and Quant Tables with streams with channel data in shared mem: 136.300262
+Making cosine and Quant Tables with streams with channel data in shared mem: 50.755264
+Making cosine and Quant Tables with streams with channel data in shared mem: 35.145023
+Making cosine and Quant Tables with streams with channel data in shared mem: 202.208923
+Making cosine and Quant Tables with streams with channel data in shared mem: 1008.606018
+Making cosine and Quant Tables with streams with channel data in shared mem: 18.625471
+Making cosine and Quant Tables with streams with channel data in shared mem: 628.750732
+Making cosine and Quant Tables with streams with channel data in shared mem: 26.562689
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.197792
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.989952
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.302368
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.955328
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.789408
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.665152
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.648512
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.951264
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.694432
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.624000
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.618368
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.396384
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.688448
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.701600
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.505824
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.699936
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.638240
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.677920
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.601152
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.838912
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.626112
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.242976
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.452000
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.669536
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.710464
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.672960
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.570752
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.712000
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.110496
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.433120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.667296
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.703328
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.932416
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.131072
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.628064
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.767904
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.689856
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.539200
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.656160
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.731520
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.503264
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.700288
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.826368
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.272032
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.620288
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.680320
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.694432
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.099296
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.570976
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.131520
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.206464
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.121696
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.487168
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.330496
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.319200
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.176288
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.188672
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.516160
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.333472
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.797216
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.722752
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.169216
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.515456
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.865952
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.982496
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.618496
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.720032
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.371968
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.616928
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.809344
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.669024
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.107040
+Making cosine and Quant Tables with streams with channel data in shared mem: 24.240320
+Making cosine and Quant Tables with streams with channel data in shared mem: 333.839203
+Making cosine and Quant Tables with streams with channel data in shared mem: 54.599873
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.955200
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.149664
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.837312
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.784640
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.965664
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.647968
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.853472
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.732416
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.844896
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.580992
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.608800
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.820064
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.332576
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.587456
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.693248
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.391968
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.582656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.601120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.561984
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.585792
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.559424
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.561344
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.501408
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.673376
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.930208
+Making cosine and Quant Tables with streams with channel data in shared mem: 349.061218
+Making cosine and Quant Tables with streams with channel data in shared mem: 50.017311
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.148576
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.009024
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.733152
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.223584
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.265920
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.442304
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.466400
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.436800
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.496256
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.512384
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.452864
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.459232
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.961664
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.436544
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.571520
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.481792
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.426432
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.521120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.576896
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.553408
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.460768
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.368512
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.494016
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.730688
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.046976
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.666752
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.642592
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.529184
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.370752
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.592448
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.606944
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.519840
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.530656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.704256
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.223584
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.436960
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.705824
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.628832
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.541152
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.445824
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.616992
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.445056
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.706976
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.463296
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.480704
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.717696
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.587968
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.499136
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.518784
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.626880
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.539552
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.482592
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.646912
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.446400
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.608416
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.591072
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.434176
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.613632
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.836384
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.672544
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.522624
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.450528
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.614016
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.630272
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.727936
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.582944
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.694560
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.722848
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.369824
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.577376
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.636992
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.622016
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.583328
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.411264
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.381728
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.482016
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.467744
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.405536
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.465344
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.517504
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.650048
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.451264
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.477728
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.674592
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.329248
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.271008
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.408384
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.729088
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.490880
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.325920
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.475840
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.239424
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.406272
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.457120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.491456
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.776768
+Making cosine and Quant Tables with streams with channel data in shared mem: 350.050598
+Making cosine and Quant Tables with streams with channel data in shared mem: 34.526752
+Making cosine and Quant Tables with streams with channel data in shared mem: 49.820992
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.545056
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.770880
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.653536
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.690624
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.730528
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.647168
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.608832
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.806336
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.664480
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.729440
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.540608
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.671360
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.409472
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.222976
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.353184
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.402656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.448192
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.451616
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.508544
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.561408
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.937376
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.492448
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.263168
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.505728
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.754528
+Making cosine and Quant Tables with streams with channel data in shared mem: 344.904724
+Making cosine and Quant Tables with streams with channel data in shared mem: 49.942432
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.017984
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.158528
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.207264
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.043488
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.598432
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.054016
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.609056
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.487552
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.488672
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.531552
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.738432
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.462048
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.474912
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.495136
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.484832
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.598304
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.464320
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.531872
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.538912
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.428480
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.311808
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.396640
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.635360
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.523808
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.504992
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.827744
+Making cosine and Quant Tables with streams with channel data in shared mem: 344.031433
+Making cosine and Quant Tables with streams with channel data in shared mem: 50.059807
+Making cosine and Quant Tables with streams with channel data in shared mem: 200.104355
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.160736
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.962112
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.101056
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.094400
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.586432
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.793184
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.630528
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.439904
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.631200
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.593216
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.778016
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.589088
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.679200
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.546528
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.343712
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.565856
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.597600
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.746688
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.535776
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.621984
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.511616
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.589024
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.557856
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.599616
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.948992
+Making cosine and Quant Tables with streams with channel data in shared mem: 336.224426
+Making cosine and Quant Tables with streams with channel data in shared mem: 34.784000
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.592000
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.205984
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.031040
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.889184
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.472800
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.820800
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.078880
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.973248
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.961856
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.127040
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.609472
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.515104
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.476096
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.465056
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.260128
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.520864
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.691680
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.461408
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.510912
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.763840
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.475712
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.441312
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.499488
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.436640
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.758208
+Making cosine and Quant Tables with streams with channel data in shared mem: 24.314560
+Making cosine and Quant Tables with streams with channel data in shared mem: 34.470337
+Making cosine and Quant Tables with streams with channel data in shared mem: 49.758720
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.710592
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.793952
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.675872
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.849248
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.599680
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.601696
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.716384
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.806304
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.463616
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.251808
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.464064
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.537248
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.505024
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.484128
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.489728
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.456672
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.269824
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.423744
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.832832
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.407552
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.346368
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.465568
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.524064
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.608960
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.367456
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.591552
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.467616
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.285984
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.266848
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.620864
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.485888
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.252960
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.597632
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.338656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.607072
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.432064
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.588256
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.351392
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.792256
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.462912
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.474336
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.490816
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.228256
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.469152
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.584384
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.472096
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.703904
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.771968
+Making cosine and Quant Tables with streams with channel data in shared mem: 24.356768
+Making cosine and Quant Tables with streams with channel data in shared mem: 34.512833
+Making cosine and Quant Tables with streams with channel data in shared mem: 50.165569
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.940000
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.995552
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.468928
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.143584
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.950112
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.091008
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.628288
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.020640
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.978432
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.462656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.330368
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.492416
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.243200
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.237920
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.458624
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.551104
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.292416
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.478208
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.510496
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.247808
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.483872
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.598016
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.523104
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.009120
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.718528
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.001568
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.969984
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.456736
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.237600
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.453024
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.504448
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.449120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.465152
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.576032
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.457120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.408864
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.182752
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.230464
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.561760
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.238304
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.482720
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.290208
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.378400
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.243040
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.459808
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.194400
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.426016
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.814464
+Making cosine and Quant Tables with streams with channel data in shared mem: 24.660065
+Making cosine and Quant Tables with streams with channel data in shared mem: 34.585503
+Making cosine and Quant Tables with streams with channel data in shared mem: 49.696064
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.238976
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.656864
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.670816
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.955584
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.670112
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.651264
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.683296
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.674656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.671904
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.680416
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.490720
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.650944
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.524448
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.714240
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.668992
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.691008
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.502080
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.748032
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.671040
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.654432
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.434080
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.692480
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.678560
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.679776
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.613248
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.900608
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.680928
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.639520
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.759904
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.772512
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.650240
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.620736
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.878272
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.813056
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.666336
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.662784
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.565312
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.667904
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.692960
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.618784
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.576992
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.800608
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.692352
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.670592
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.664224
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.613856
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.672864
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.069600
+Making cosine and Quant Tables with streams with channel data in shared mem: 24.410303
+Making cosine and Quant Tables with streams with channel data in shared mem: 50.217697
+Making cosine and Quant Tables with streams with channel data in shared mem: 34.380482
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.670720
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.438848
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.377824
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.599840
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.048160
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.659456
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.047232
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.556096
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.804384
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.655328
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.635488
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.665056
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.845504
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.653152
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.390368
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.448512
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.658880
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.624864
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.588928
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.694720
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.774688
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.491136
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.598656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.615616
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.779360
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.665440
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.606208
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.611520
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.908064
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.674112
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.072768
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.626176
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.659232
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.764064
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.720896
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.633408
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.806656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.675872
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.287968
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.473344
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.472192
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.400864
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.532064
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.671840
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.608736
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.797312
+Making cosine and Quant Tables with streams with channel data in shared mem: 591.685852
+Making cosine and Quant Tables with streams with channel data in shared mem: 202.016571
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.358304
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.962432
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.208896
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.457120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.939360
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.279872
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.616544
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.680640
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.663680
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.863168
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.583520
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.657248
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.853440
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.671392
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.835648
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.669248
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.070848
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.647392
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.686464
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.680928
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.980320
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.471168
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.678720
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.647456
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.129664
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.773856
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.684032
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.794496
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.673824
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.546592
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.729952
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.725568
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.885120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.648992
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.656224
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.729472
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.838880
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.808448
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.616480
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.756384
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.887552
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.751136
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.642304
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.122720
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.840576
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.711200
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.802816
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.535392
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.647744
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.870560
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.698656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.740992
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.962304
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.455712
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.691712
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.747616
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.794112
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.703840
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.750336
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.736608
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.902464
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.753664
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.676608
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.733536
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.807584
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.490464
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.794720
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.734656
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.741696
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.679520
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.705344
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.663584
+Making cosine and Quant Tables with streams with channel data in shared mem: 14.936128
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.738208
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.701728
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.607168
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.742496
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.841248
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.767808
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.594016
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.730304
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.596928
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.745536
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.756288
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.794752
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.576448
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.913120
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.605472
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.613504
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.748352
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.670176
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.848192
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.754464
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.726016
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.562048
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.883296
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.635904
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.337184
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.137280
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.409184
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.515360
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.411136
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.544192
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.596288
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.456832
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.455616
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.953312
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.505216
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.002016
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.021120
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.873760
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.061216
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.016192
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.934368
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.098944
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.690688
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.751200
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.971392
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.758560
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.271424
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.679488
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.265376
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.262656
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.305248
+Making cosine and Quant Tables with streams with channel data in shared mem: 24.348608
+Making cosine and Quant Tables with streams with channel data in shared mem: 38.364063
+Making cosine and Quant Tables with streams with channel data in shared mem: 62.680065
+Making cosine and Quant Tables with streams with channel data in shared mem: 233.092773
+Making cosine and Quant Tables with streams with channel data in shared mem: 18.766815
+Making cosine and Quant Tables with streams with channel data in shared mem: 139.221344
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.561984
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.755296
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.365280
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.372256
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.926880
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.966048
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.832608
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.001408
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.004704
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.690624
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.926976
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.885440
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.253120
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.036160
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.996384
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.717600
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.998272
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.076832
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.975840
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.949600
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.001632
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.111648
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.980096
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.858176
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.707200
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.881024
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.678208
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.674880
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.644128
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.664544
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.742464
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.674784
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.511232
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.610432
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.696864
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.679808
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.640960
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.626208
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.743328
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.969600
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.658304
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.721088
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.728512
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.624960
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.663008
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.774048
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.416832
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.194816
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.864160
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.808256
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.299136
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.276992
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.218208
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.384800
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.138560
+Making cosine and Quant Tables with streams with channel data in shared mem: 13.339520
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.991264
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.800256
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.687616
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.573952
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.659680
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.725440
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.705280
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.678944
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.769728
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.771200
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.701088
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.690144
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.656192
+Making cosine and Quant Tables with streams with channel data in shared mem: 11.593440
+Making cosine and Quant Tables with streams with channel data in shared mem: 12.066592
+Making cosine and Quant Tables with streams with channel data in shared mem: 25.338688
+Making cosine and Quant Tables with streams with channel data in shared mem: 327.958191
+Image Size: 512 * 512 Time:12.260576
+Image Size: 512 * 512 Time:11.847968
+Image Size: 512 * 512 Time:12.578752
+Image Size: 512 * 512 Time:12.304736
+Image Size: 512 * 512 Time:13.080768
+Image Size: 512 * 512 Time:13.079136
+Image Size: 512 * 512 Time:11.975456
+Image Size: 512 * 512 Time:11.792448
+Image Size: 512 * 512 Time:11.609216
+Image Size: 512 * 512 Time:12.695136
+Image Size: 512 * 512 Time:12.699040
+Image Size: 512 * 512 Time:11.768064
+Image Size: 512 * 512 Time:12.504928
+Image Size: 512 * 512 Time:11.682912
+Image Size: 512 * 512 Time:11.669696
+Image Size: 512 * 512 Time:11.788672
+Image Size: 512 * 512 Time:11.695744
+Image Size: 512 * 512 Time:11.856352
+Image Size: 512 * 512 Time:11.650176
+Image Size: 512 * 512 Time:11.724800
+Image Size: 512 * 512 Time:11.624320
+Image Size: 512 * 512 Time:12.435456
+Image Size: 512 * 512 Time:11.612896
+Image Size: 512 * 512 Time:11.671328
+Image Size: 512 * 512 Time:11.675104
+Image Size: 512 * 512 Time:11.765152
+Image Size: 512 * 512 Time:11.910624
+Image Size: 512 * 512 Time:11.646400
+Image Size: 512 * 512 Time:11.649472
+Image Size: 512 * 512 Time:11.795424
+Image Size: 512 * 512 Time:11.746560
+Image Size: 512 * 512 Time:11.682976
+Image Size: 512 * 512 Time:11.725344
+Image Size: 512 * 512 Time:11.681984
+Image Size: 512 * 512 Time:11.669280
+Image Size: 512 * 512 Time:11.773184
+Image Size: 512 * 512 Time:11.703200
+Image Size: 512 * 512 Time:11.618496
+Image Size: 512 * 512 Time:11.616992
+Image Size: 512 * 512 Time:12.853984
+Image Size: 512 * 512 Time:11.597824
+Image Size: 512 * 512 Time:11.644960
+Image Size: 512 * 512 Time:11.686144
+Image Size: 512 * 512 Time:11.719840
+Image Size: 512 * 512 Time:11.696224
+Image Size: 512 * 512 Time:12.914496
+Image Size: 512 * 512 Time:11.642496
+Image Size: 512 * 512 Time:11.656736
+Image Size: 512 * 512 Time:18.073055
+Image Size: 512 * 512 Time:17.609983
+Image Size: 512 * 512 Time:17.685345
+Image Size: 512 * 512 Time:17.664000
+Image Size: 512 * 512 Time:17.691393
+Image Size: 512 * 512 Time:18.438593
+Image Size: 512 * 512 Time:17.692192
+Image Size: 512 * 512 Time:17.681536
+Image Size: 512 * 512 Time:17.642656
+Image Size: 512 * 512 Time:17.645599
+Image Size: 512 * 512 Time:17.948511
+Image Size: 512 * 512 Time:17.650944
+Image Size: 512 * 512 Time:17.659168
+Image Size: 512 * 512 Time:17.646816
+Image Size: 512 * 512 Time:18.453632
+Image Size: 512 * 512 Time:17.750368
+Image Size: 512 * 512 Time:17.622849
+Image Size: 512 * 512 Time:17.634785
+Image Size: 512 * 512 Time:17.611776
+Image Size: 512 * 512 Time:17.566816
+Image Size: 512 * 512 Time:18.172289
+Image Size: 512 * 512 Time:18.295233
+Image Size: 512 * 512 Time:17.586945
+Image Size: 512 * 512 Time:17.595968
+Image Size: 512 * 512 Time:11.812608
+Image Size: 512 * 512 Time:12.571072
+Image Size: 512 * 512 Time:13.081792
+Image Size: 512 * 512 Time:12.941280
+Image Size: 512 * 512 Time:12.354048
+Image Size: 512 * 512 Time:12.454656
+Image Size: 512 * 512 Time:12.829600
+Image Size: 512 * 512 Time:11.680896
+Image Size: 512 * 512 Time:11.768352
+Image Size: 512 * 512 Time:11.709120
+Image Size: 512 * 512 Time:13.141888
+Image Size: 512 * 512 Time:12.601472
+Image Size: 512 * 512 Time:11.681824
+Image Size: 512 * 512 Time:11.655104
+Image Size: 512 * 512 Time:12.501920
+Image Size: 512 * 512 Time:12.440096
+Image Size: 512 * 512 Time:12.440960
+Image Size: 512 * 512 Time:11.739488
+Image Size: 512 * 512 Time:11.795904
+Image Size: 512 * 512 Time:11.674624
+Image Size: 512 * 512 Time:11.690592
+Image Size: 512 * 512 Time:12.559840
+Image Size: 512 * 512 Time:11.666048
+Image Size: 512 * 512 Time:11.768416
+Image Size: 512 * 512 Time:11.570176
+Image Size: 512 * 512 Time:11.847392
+Image Size: 512 * 512 Time:12.095040
+Image Size: 512 * 512 Time:12.201696
+Image Size: 512 * 512 Time:13.185952
+Image Size: 512 * 512 Time:12.184608
+Image Size: 512 * 512 Time:12.189952
+Image Size: 512 * 512 Time:13.021440
+Image Size: 512 * 512 Time:12.196512
+Image Size: 512 * 512 Time:12.173920
+Image Size: 512 * 512 Time:11.686624
+Image Size: 512 * 512 Time:11.790624
+Image Size: 512 * 512 Time:12.193856
+Image Size: 512 * 512 Time:11.646592
+Image Size: 512 * 512 Time:11.664224
+Image Size: 512 * 512 Time:11.549696
+Image Size: 512 * 512 Time:11.674144
+Image Size: 512 * 512 Time:11.936064
+Image Size: 512 * 512 Time:12.560160
+Image Size: 512 * 512 Time:11.669728
+Image Size: 512 * 512 Time:12.484288
+Image Size: 512 * 512 Time:12.514656
+Image Size: 512 * 512 Time:11.649760
+Image Size: 512 * 512 Time:11.806368
+Image Size: 512 * 512 Time:12.673696
+Image Size: 512 * 512 Time:11.535040
+Image Size: 512 * 512 Time:11.539488
+Image Size: 512 * 512 Time:12.874592
+Image Size: 512 * 512 Time:12.128960
+Image Size: 512 * 512 Time:11.676928
+Image Size: 512 * 512 Time:12.867456
+Image Size: 512 * 512 Time:12.473760
+Image Size: 512 * 512 Time:12.267072
+Image Size: 512 * 512 Time:12.482272
+Image Size: 512 * 512 Time:12.920544
+Image Size: 512 * 512 Time:11.777856
+Image Size: 512 * 512 Time:12.738048
+Image Size: 512 * 512 Time:11.660896
+Image Size: 512 * 512 Time:12.621696
+Image Size: 512 * 512 Time:11.676448
+Image Size: 512 * 512 Time:11.657312
+Image Size: 512 * 512 Time:11.668224
+Image Size: 512 * 512 Time:11.656640
+Image Size: 512 * 512 Time:11.712800
+Image Size: 512 * 512 Time:11.590112
+Image Size: 512 * 512 Time:11.628992
+Image Size: 512 * 512 Time:11.664448
+Image Size: 512 * 512 Time:12.473504
+Image Size: 512 * 512 Time:11.666624
+Image Size: 512 * 512 Time:12.745824
+Image Size: 512 * 512 Time:11.915200
+Image Size: 512 * 512 Time:12.021664
+Image Size: 512 * 512 Time:12.934304
+Image Size: 512 * 512 Time:12.822272
+Image Size: 512 * 512 Time:12.087904
+Image Size: 512 * 512 Time:12.004416
+Image Size: 512 * 512 Time:12.041632
+Image Size: 512 * 512 Time:11.593120
+Image Size: 512 * 512 Time:12.250304
+Image Size: 512 * 512 Time:11.469472
+Image Size: 512 * 512 Time:11.475584
+Image Size: 512 * 512 Time:11.718848
+Image Size: 512 * 512 Time:11.748640
+Image Size: 512 * 512 Time:11.489568
+Image Size: 512 * 512 Time:11.459424
+Image Size: 512 * 512 Time:11.532512
+Image Size: 512 * 512 Time:11.523424
+Image Size: 512 * 512 Time:11.522720
+Image Size: 512 * 512 Time:11.517152
+Image Size: 512 * 512 Time:11.494848
+Image Size: 512 * 512 Time:11.862880
+Image Size: 512 * 512 Time:11.854304
+Image Size: 512 * 512 Time:11.497664
+Image Size: 512 * 512 Time:12.510624
+Image Size: 512 * 512 Time:11.445216
+Image Size: 512 * 512 Time:12.089888
+Image Size: 512 * 512 Time:11.363680
+Image Size: 512 * 512 Time:11.562624
+Image Size: 512 * 512 Time:11.359424
+Image Size: 512 * 512 Time:11.438208
+Image Size: 512 * 512 Time:11.475392
+Image Size: 512 * 512 Time:12.888096
+Image Size: 512 * 512 Time:11.429600
+Image Size: 512 * 512 Time:11.378720
+Image Size: 512 * 512 Time:12.328256
+Image Size: 512 * 512 Time:11.507424
+Image Size: 512 * 512 Time:12.260224
+Image Size: 512 * 512 Time:12.285440
+Image Size: 512 * 512 Time:11.490624
+Image Size: 512 * 512 Time:11.440288
+Image Size: 512 * 512 Time:11.413248
+Image Size: 512 * 512 Time:11.446336
+Image Size: 512 * 512 Time:13.306784
+Image Size: 512 * 512 Time:11.480384
+Image Size: 512 * 512 Time:11.465760
+Image Size: 512 * 512 Time:12.361088
+Image Size: 512 * 512 Time:11.495104
+Image Size: 512 * 512 Time:11.372160
+Image Size: 512 * 512 Time:16.028353
+Image Size: 512 * 512 Time:15.711104
+Image Size: 512 * 512 Time:15.883296
+Image Size: 512 * 512 Time:15.914944
+Image Size: 512 * 512 Time:16.194080
+Image Size: 512 * 512 Time:15.851296
+Image Size: 512 * 512 Time:16.878817
+Image Size: 512 * 512 Time:15.823936
+Image Size: 512 * 512 Time:15.889888
+Image Size: 512 * 512 Time:15.886720
+Image Size: 512 * 512 Time:16.805824
+Image Size: 512 * 512 Time:15.820352
+Image Size: 512 * 512 Time:15.987776
+Image Size: 512 * 512 Time:15.865856
+Image Size: 512 * 512 Time:15.842944
+Image Size: 512 * 512 Time:15.949792
+Image Size: 512 * 512 Time:16.460257
+Image Size: 512 * 512 Time:15.827360
+Image Size: 512 * 512 Time:16.838623
+Image Size: 512 * 512 Time:15.883552
+Image Size: 512 * 512 Time:15.813056
+Image Size: 512 * 512 Time:16.531391
+Image Size: 512 * 512 Time:16.810495
+Image Size: 512 * 512 Time:15.802336
+Image Size: 512 * 512 Time:11.928064
+Image Size: 512 * 512 Time:11.883904
+Image Size: 512 * 512 Time:24.337215
+Image Size: 512 * 512 Time:53.675392
+Image Size: 512 * 512 Time:598.544250
+Image Size: 512 * 512 Time:986.259094
+Image Size: 512 * 512 Time:134.828857
+Image Size: 512 * 512 Time:19.790176
